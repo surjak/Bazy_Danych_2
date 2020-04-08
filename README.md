@@ -6,4 +6,4 @@
 - [**MongoDB**](https://github.com/surjak/Bazy_Danych_2/tree/master/MongoDB)
 - Hibernate
 - Neo4j
-- Entity Framework
+- [**Entity Framework**](https://github.com/surjak/Bazy_Danych_2/tree/master/EF)
