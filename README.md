@@ -4,6 +4,6 @@
 ## Technologie
 - [**Oracle SQL**](https://github.com/surjak/Bazy_Danych_2/tree/master/Oracle)
 - [**MongoDB**](https://github.com/surjak/Bazy_Danych_2/tree/master/MongoDB)
-- Hibernate
+- [**Hibernate**](https://github.com/surjak/Bazy_Danych_2/tree/master/Hibernate)
 - Neo4j
 - [**Entity Framework**](https://github.com/surjak/Bazy_Danych_2/tree/master/EF)
