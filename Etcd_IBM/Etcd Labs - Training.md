@@ -22,7 +22,7 @@ Please copy & paste them into the cell below:
 
 ```python
 etcdCreds = {
-# paste your credentials
+# paste your credentials 
 }
 ```
 
