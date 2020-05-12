@@ -17,8 +17,6 @@ There are two major use cases: concurrency control in the distributed system and
 During this lab we will be using etcd3 python client.  
 Homepage: https://pypi.org/project/etcd3/
 
-Etcd credentials are shared on the slack channel: https://join.slack.com/t/ibm-agh-labs/shared_invite/zt-e8xfjgtd-8IDWmn912qPOflbM1yk6~Q
-
 Please copy & paste them into the cell below:
 
 
